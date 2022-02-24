@@ -1,0 +1,172 @@
+.front_wall{
+    width: 80%;
+    height: 500px;
+    background: rgb(5, 196, 14);
+    position: relative;
+    margin: auto;
+}
+img{
+    width: 100%;
+    
+}
+.box{
+    width: 80px;
+    height: 50px;
+    display: inline-block;
+    border: 5px solid red;
+    position: absolute;
+    margin: auto;
+
+}
+.shape1{
+    width: 100px;
+    height: 80px;
+    border: 10px ridge blue;
+    position: absolute;
+    left: 310px;
+    top: 120px;
+    margin: auto;
+    overflow: hidden;
+    
+}
+.shape2{
+    width: 50px;
+    height: 80px;
+    border: 10px ridge yellowgreen;
+    position: absolute;
+    left: 450px;
+    top: 80px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape2 img{
+    width: 50px;
+    height: 80px;
+}
+.shape3{
+    width: 100px;
+    height: 80px;
+    border: 10px ridge orange;
+    position: absolute;
+    left: 530px;
+    top: 80px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape3 img{
+    width: 100px;
+    height: 80px;
+}
+.shape4{
+    width: 200px;
+    height: 60px;
+    border: 10px ridge red;
+    position: absolute;
+    left: 200px;
+    top: 235px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape4 img{
+    width: 200px;
+    height: 60px;
+}
+.shape5{
+    width: 150px;
+    height: 100px;
+    border: 15px ridge rgb(4, 243, 231);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+}
+.shape5 img{
+    width: 150px;
+    height: 100px;
+}
+.shape6{
+    width: 80px;
+    height: 100px;
+    border: 10px ridge orange;
+    position: absolute;
+    right: 320px;
+    top: 160px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape6 img{
+    width: 80px;
+    height: 100px;
+}
+.shape7{
+    width: 60px;
+    height: 80px;
+    border: 10px ridge rgb(255, 0, 119);
+    position: absolute;
+    right: 230px;
+    top: 110px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape7 img{
+    width: 60px;
+    height: 80px;
+}
+.shape8{
+    width: 120px;
+    height: 80px;
+    border: 10px ridge rgb(0, 195, 255);
+    position: absolute;
+    right: 277px;
+    top: 290px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape8 img{
+    width: 120px;
+    height: 80px;
+}
+.shape9{
+    width: 70px;
+    height: 70px;
+    border: 10px ridge rgb(255, 251, 0);
+    position: absolute;
+    right: 175px;
+    top: 220px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape9 img{
+    width: 70px;
+    height: 70px;
+}
+.shape10{
+    width: 120px;
+    height: 90px;
+    border: 10px ridge rgba(119, 0, 255, 0.562);
+    position: absolute;
+    left: 375px;
+    bottom: 65px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape10 img{
+    width: 120px;
+    height: 90px;
+}
+.shape11{
+    width: 90px;
+    height: 65px;
+    border: 10px ridge rgba(255, 0, 0, 0.562);
+    position: absolute;
+    left: 535px;
+    bottom: 85px;
+    margin: auto;
+    overflow: hidden;
+}
+.shape11 img{
+    width: 90px;
+    height: 65px;
+}
